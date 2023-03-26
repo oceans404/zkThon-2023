@@ -11,8 +11,8 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️**
 
 ## Hashtags Used
 
-- [ ] `#zkEVM`
-- [ ] `#zkThon`
+- [✅] `#zkEVM`
+- [✅] `#zkThon`
 
 ## Steps on how to Contribute ?
 
