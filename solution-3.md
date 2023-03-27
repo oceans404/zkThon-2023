@@ -1,0 +1,1 @@
+Safe mint transaction on my contract from challenge 2: https://explorer.public.zkevm-test.net/tx/0xb571e0afc5501df8f5335fac18244a6c86acf7619d6bbe9706b2b90e29cace01
